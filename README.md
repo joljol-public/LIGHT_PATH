@@ -1,0 +1,2 @@
+# LIGHT_PATH
+LIGHT_PATHの公開用リポジトリ
